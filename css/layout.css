@@ -345,10 +345,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: VB 2s ease;
   	-webkit-animation: VB 2s ease;
 }
-HTML5 {
-  	width: 10%;
-  	-moz-animation: HTML5 2s ease;
-  	-webkit-animation: HTML5 2s ease;
+.MATHEMATICA {
+  	width: 90%;
+  	-moz-animation: MATHEMATICA 2s ease;
+  	-webkit-animation: MATHEMATICA 2s ease;
 }
 
 @-moz-keyframes Java {
@@ -367,9 +367,9 @@ HTML5 {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes HTML5 {
+@-moz-keyframes MATHEMATICA {
   0%   { width: 0px;  }
-  100% { width: 10%;  }
+  100% { width: 100%;  }
 }
 
 @-webkit-keyframes Java {
@@ -388,9 +388,9 @@ HTML5 {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes HTML5 {
+@-webkit-keyframes MATHEMATICA {
   0%   { width: 0px;  }
-  100% { width: 10%;  }
+  100% { width: 100%;  }
 }
 
 /* ------------------------------------------------------------------ */
