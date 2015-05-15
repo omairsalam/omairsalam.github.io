@@ -326,38 +326,44 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .Java {
-  	width: 80%;
-  	-moz-animation: Java 2s ease;
-  	-webkit-animation: Java 2s ease;
+  	width: 90%;
+  	-moz-animation: Java 10s ease;
+  	-webkit-animation: Java 10s ease;
 }
 .CPP {
-  	width: 70%;
-  	-moz-animation: CPP 2s ease;
-  	-webkit-animation: CPP 2s ease;
+  	width: 80%;
+  	-moz-animation: CPP 10s ease;
+  	-webkit-animation: CPP 10s ease;
 }
 .MIPS {
   	width: 30%;
-  	-moz-animation: MIPS 2s ease;
-  	-webkit-animation: MIPS 2s ease;
+  	-moz-animation: MIPS 10s ease;
+  	-webkit-animation: MIPS 10s ease;
 }
 .VB {
   	width: 50%;
-  	-moz-animation: VB 2s ease;
-  	-webkit-animation: VB 2s ease;
+  	-moz-animation: VB 10s ease;
+  	-webkit-animation: VB 10s ease;
 }
 .MATHEMATICA {
-  	width: 90%;
-  	-moz-animation: MATHEMATICA 2s ease;
-  	-webkit-animation: MATHEMATICA 2s ease;
+  	width: 80%;
+  	-moz-animation: MATHEMATICA 10s ease;
+  	-webkit-animation: MATHEMATICA 10s ease;
+}
+
+.JEANT {
+    width: 30%;
+    -moz-animation: JEANT 10s ease;
+    -webkit-animation: JEANT 10s ease;
 }
 
 @-moz-keyframes Java {
   0%   { width: 0px;  }
-  100% { width: 100%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes CPP {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes MIPS {
   0%   { width: 0px;  }
@@ -365,20 +371,25 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes VB {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
 }
 @-moz-keyframes MATHEMATICA {
   0%   { width: 0px;  }
-  100% { width: 100%;  }
+  100% { width: 80%;  }
+}
+
+@-moz-keyframes JEANT4 {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
 }
 
 @-webkit-keyframes Java {
   0%   { width: 0px;  }
-  100% { width: 100%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes CPP {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes MIPS {
   0%   { width: 0px;  }
@@ -386,11 +397,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes VB {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
 }
 @-webkit-keyframes MATHEMATICA {
   0%   { width: 0px;  }
-  100% { width: 100%;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes JEANT {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
 }
 
 /* ------------------------------------------------------------------ */
