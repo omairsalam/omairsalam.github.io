@@ -358,33 +358,33 @@ ul#nav li.current a { color: #F06000; }
 }
 .HippoCMS {
     width: 90%;
-    -moz-animation: JEANT 10s ease;
-    -webkit-animation: JEANT 10s ease;
+    -moz-animation: HippoCMS 10s ease;
+    -webkit-animation: HippoCMS 10s ease;
 }
 .Git {
     width: 90%;
-    -moz-animation: JEANT 10s ease;
-    -webkit-animation: JEANT 10s ease;
+    -moz-animation: Git 10s ease;
+    -webkit-animation: Git 10s ease;
 }
 .Freemarker {
     width: 70%;
-    -moz-animation: JEANT 10s ease;
-    -webkit-animation: JEANT 10s ease;
+    -moz-animation: Freemarker 10s ease;
+    -webkit-animation: Freemarker 10s ease;
 }
 .HTML {
     width: 80%;
-    -moz-animation: JEANT 10s ease;
-    -webkit-animation: JEANT 10s ease;
+    -moz-animation: HTML 10s ease;
+    -webkit-animation: HTML 10s ease;
 }
 .CSS {
     width: 80%;
-    -moz-animation: JEANT 10s ease;
-    -webkit-animation: JEANT 10s ease;
+    -moz-animation: CSS 10s ease;
+    -webkit-animation: CSS 10s ease;
 }
 .Javascript {
     width: 80%;
-    -moz-animation: JEANT 10s ease;
-    -webkit-animation: JEANT 10s ease;
+    -moz-animation: Javascript 10s ease;
+    -webkit-animation: Javascript 10s ease;
 }
 
 @-moz-keyframes Java {
