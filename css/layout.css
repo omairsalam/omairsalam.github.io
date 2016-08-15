@@ -356,6 +356,36 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: JEANT 10s ease;
     -webkit-animation: JEANT 10s ease;
 }
+.HippoCMS {
+    width: 90%;
+    -moz-animation: JEANT 10s ease;
+    -webkit-animation: JEANT 10s ease;
+}
+.Git {
+    width: 90%;
+    -moz-animation: JEANT 10s ease;
+    -webkit-animation: JEANT 10s ease;
+}
+.Freemarker {
+    width: 70%;
+    -moz-animation: JEANT 10s ease;
+    -webkit-animation: JEANT 10s ease;
+}
+.HTML {
+    width: 80%;
+    -moz-animation: JEANT 10s ease;
+    -webkit-animation: JEANT 10s ease;
+}
+.CSS {
+    width: 80%;
+    -moz-animation: JEANT 10s ease;
+    -webkit-animation: JEANT 10s ease;
+}
+.Javascript {
+    width: 80%;
+    -moz-animation: JEANT 10s ease;
+    -webkit-animation: JEANT 10s ease;
+}
 
 @-moz-keyframes Java {
   0%   { width: 0px;  }
@@ -411,7 +441,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 30%;  }
 }
-@-webkit-keyframes Hippo Content Management Software {
+@-webkit-keyframes HippoCMS {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
