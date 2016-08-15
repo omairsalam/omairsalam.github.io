@@ -365,6 +365,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
+@-moz-keyframes C {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
 @-moz-keyframes MIPS {
   0%   { width: 0px;  }
   100% { width: 30%;  }
@@ -406,6 +410,30 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes JEANT {
   0%   { width: 0px;  }
   100% { width: 30%;  }
+}
+@-webkit-keyframes Hippo Content Management Software {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes Freemarker {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes HTML {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes CSS {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes Javascript {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes Git {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
 }
 
 /* ------------------------------------------------------------------ */
